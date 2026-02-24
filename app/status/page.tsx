@@ -127,7 +127,7 @@ function StatusContent() {
   }
 
   return (
-    <main className="min-h-screen p-6 sm:p-10 md:p-12 lg:p-16 flex flex-col gap-10 sm:gap-16 bg-gray-50">
+    <main className="min-h-screen p-6 sm:p-10 md:p-12 lg:p-16 flex flex-col gap-10 sm:gap-16">
       {/* Header */}
       <header className="flex items-center justify-between max-w-4xl mx-auto w-full">
         <span className="text-base sm:text-lg font-medium flex items-center gap-2">
