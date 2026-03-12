@@ -38,7 +38,7 @@ export default function Signin() {
             Tena olona ato antrano ve nefa io?
           </h1>
           <p className="mt-2 text-sm text-gray-600 sm:text-base">
-            Miditra amin'ny anaranao sy ny tenimiafina
+            Anarana sy mot de passse azafady
           </p>
         </div>
 
@@ -77,7 +77,7 @@ export default function Signin() {
                 htmlFor="password"
                 className="block text-sm font-medium text-gray-700"
               >
-                Tenimiafina
+                Mot de passe
               </label>
               <div className="mt-1">
                 <input
